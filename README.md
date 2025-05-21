@@ -52,7 +52,7 @@
 ![不美观，不炫酷](readme_img/Snipaste_WeChat.png)
 
 ## 💡 技术小贴士
-- 关于数据库连接：项目提供了两个连接器实现（`connector.py` 和 `connector_pymysql.py`）
+- 关于数据库连接：项目提供了两个连接器实现（`connector.py` 和 `connector_pymysql.py`）使用了不同的第三方库实现连接
 - 实际使用 `connector_pymysql.py`：因为 `mysql.connector` 可能会和 PyQt 的底层 C 实现起冲突
 
 ## 📂 项目结构
