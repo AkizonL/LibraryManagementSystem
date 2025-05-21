@@ -19,13 +19,13 @@
 ![V3_2](readme_img/Snipaste_V3_2.png)
 > V3版本的背景会流动渐变
 
-
 ## 🚀 快速开始
 
-### 环境要求
-- Python 3.11+
-- MySQL
-- 虚拟环境（推荐使用项目自带的 `venv`）
+### 环境说明
+- 项目自带 `venv` 虚拟环境，已配置好所需依赖，可以前往[Release](https://github.com/AkizonL/LibraryManagementSystem/releases/latest)下载
+- 如果 `venv` 出现问题，可以重新安装依赖：`pip install -r requirements.txt`
+- Python 版本要求：3.11+
+- MySQL 8.0+
 
 ### 数据库配置
 1. 导入数据库：使用 Navicat 导入 `librarydatabase.sql` 文件
