@@ -22,7 +22,7 @@
 ## 🚀 快速开始
 
 ### 环境说明
-- 项目自带 `venv` 虚拟环境，已配置好所需依赖，可以前往[Release](https://github.com/AkizonL/LibraryManagementSystem/releases/latest)下载
+- 项目自带 `venv` 虚拟环境，已配置好所需依赖，可以前往[Release](https://github.com/AkizonL/LibraryManagementSystem/releases/latest)下载Simple-library-management-system.zip
 - 如果 `venv` 出现问题，可以重新安装依赖：`pip install -r requirements.txt`
 - Python 版本要求：3.11+
 - MySQL 8.0+
