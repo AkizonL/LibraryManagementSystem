@@ -18,6 +18,7 @@
 ![V3_1](readme_img/Snipaste_V3_1.png)
 ![V3_2](readme_img/Snipaste_V3_2.png)
 > V3版本的背景会流动渐变
+> V3版本的登录验证尚未撰写，如需要请自行编写
 
 ## 🚀 快速开始
 
